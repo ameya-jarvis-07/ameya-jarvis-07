@@ -24,14 +24,6 @@ I am a passionate developer currently pursuing my degree in **Artificial Intelli
 
 ---
 
-### 🏆 Milestones & Leadership
-
-- **Campus Mantri** @ GeeksforGeeks 
-- **Class Representative** @ Department of AI & DS, ACET
-- **Graduate** of the 5-Day AI Agents Intensive Course (Google / Kaggle)
-
----
-
 ### ⚡ Fun Facts About Me
 
 - 🏎️ Massive **Formula 1** fan (Cheering for **Red Bull Racing** 🐂)
